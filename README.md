@@ -53,15 +53,15 @@ The following CSS concepts and techniques were implemented:
 
 ### Desktop View
 
-![Desktop View](1-desk.PNG)
+![Desktop View](desk.PNG)
 
 ### Tablet View
 
-![Tablet View](2-tab.PNG)
+![Tablet View](tab.PNG)
 
 ### Mobile View
 
-![Mobile View](3-mobile.PNG)
+![Mobile View](mobile.PNG)
 
 ## Key Learnings
 
@@ -127,9 +127,9 @@ aurex-web-internship-[name]/
 ├── index.html
 ├── style.css
 ├── README.md
-├── 1-desk.PNG
-├── 2-tab.PNG
-└── 3-mobile.PNG
+├── desk.PNG
+├── tab.PNG
+└── mobile.PNG
 
 
 ## Conclusion
