@@ -26,7 +26,7 @@ The main purpose of this task was to practice CSS fundamentals, the CSS Box Mode
 
 ## Live Deployment
 
-**Live Website:** [personal-portfolio-hamza.vercel.app](https://personal-portfolio-hamza.vercel.app)
+**Live Website:** [itshamza-portfolio-personal.vercel.app](https://itshamza-portfolio-personal.vercel.app)
 
 ## CSS Features & Layout Techniques
 
